@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: LeaveManagementSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ramireddy.sandhya
+Implementation-Vendor-Id: com.hcl.experian
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://spring.io/projects/spring-boot/UseCase
+Created-By: Maven Integration for Eclipse
+
